@@ -61,11 +61,9 @@
 
 ## 📸 界面预览 (Screenshots)
 
-> *（建议在此处上传 1-2 张软件运行截图，替换下方的占位符）*
-
 | 主界面 (设置时间) | 沉浸模式 (悬浮窗) |
 | :---: | :---: |
-| ![Main UI](https://via.placeholder.com/300x200?text=Main+Interface) | ![Mini Mode](https://via.placeholder.com/300x100?text=Mini+Floating+Window) |
+| ![主界面截图](main_ui.png) | ![沉浸模式截图](mini_mode.png) |
 
 ---
 
